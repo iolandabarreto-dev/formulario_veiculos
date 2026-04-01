@@ -4,7 +4,7 @@
 📌 Sobre o projeto
 
 Este projeto é uma aplicação web que disponibiliza um formulário para cadastro de veículos, permitindo que o usuário insira informações detalhadas sobre o carro, como preço, marca, modelo, quilometragem, opcionais e fotos.  
-Foi desenvolvido para fins educacionais e de portfólio.
+
 
 ________________________________________
 🎯 Objetivo  
